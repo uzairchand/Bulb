@@ -1,0 +1,15 @@
+#j1{
+    font-size: 30px;
+    color: red;
+}
+#img{
+    width: 150px;
+}
+#d1{
+    background-color: rgb(157, 57, 57);
+    width: 300px;
+    height: 300px;
+}
+button{
+    cursor: pointer;
+}
